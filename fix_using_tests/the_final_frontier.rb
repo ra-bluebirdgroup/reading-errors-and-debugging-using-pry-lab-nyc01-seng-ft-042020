@@ -22,3 +22,4 @@ def engage
   greet_crew(crew)
 
 end
+binding.pry
