@@ -1,5 +1,5 @@
 # don't forget to add: require 'pry'
-require 'pry'
+
 def get_user_input
   input = gets.chomp
   input.to_i
